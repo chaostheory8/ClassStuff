@@ -176,7 +176,7 @@ int main()
 
     if(minimum <= 0)
     {
-        cout<<"...I'm gonna go ahead and default the minimum to 1 for you, wise guy/gal."<<endl;
+        cout<<"Unexpected Input. Defaulting to base match value of 1."<<endl;
         minimum = 1;
     }
 
